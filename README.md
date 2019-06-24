@@ -1,7 +1,7 @@
 
 # Speech To Text Information
 Libraries Needed: https://pypi.org/project/SpeechRecognition/
-Commands useful for Installation: 
+Commands useful for Installation:
        pip install SpeechRecognition
        pip install pyaudio
 If pip command not found: 
