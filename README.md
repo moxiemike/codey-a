@@ -16,3 +16,6 @@ If pip command not found:
 Python 3.6 or less preferred.
 
 Useful Link: https://github.com/Uberi/speech_recognition/blob/master/examples/audio_transcribe.py
+
+# Information on Spam Filtering
+Anaconda Jupyter Notebook.
