@@ -19,5 +19,7 @@ Useful Link: https://github.com/Uberi/speech_recognition/blob/master/examples/au
 
 # Information on Spam Filtering
 Anaconda Jupyter Notebook.
+
 We have used emails.csv file from trainig and testing our data.
+
 Naive Bayes Algo is used from spam detection.
